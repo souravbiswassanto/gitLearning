@@ -1,1 +1,3 @@
 Hello temp!
+lines added
+second line is added for amend command
